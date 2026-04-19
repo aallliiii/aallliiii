@@ -6,11 +6,11 @@ Building intelligent systems that think, decide, and act
 
 ## 🚀 About Me  
 
-Computer Science undergraduate focused on designing real world AI systems.  
+AI Engineer focused on designing and deploying real world intelligent systems  
 
-I work at the intersection of large language models, agent based architectures, and full stack development. I enjoy turning complex ideas into scalable and practical products.  
+I work at the intersection of large language models, agent based architectures, and full stack development. I specialize in transforming complex ideas into scalable, production ready solutions  
 
-My focus is not just building models, but building systems where AI components collaborate, reason, and deliver outcomes.  
+My focus goes beyond models, I build systems where AI components collaborate, reason, and deliver meaningful outcomes  
 
 ---
 
