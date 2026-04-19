@@ -24,37 +24,6 @@ My focus goes beyond models, I build systems where AI components collaborate, re
 
 ---
 
-## ⚙️ Tech Stack  
-
-### 🖥️ Languages  
-Python  
-JavaScript  
-
-### 🤖 AI and Machine Learning  
-TensorFlow  
-Keras  
-Scikit learn  
-Pandas  
-NumPy  
-
-### 🧩 LLM and Agentic Systems  
-LangChain  
-LangGraph  
-OpenAI APIs  
-RAG pipelines  
-Vector databases and embeddings  
-
-### 🔧 Backend and APIs  
-Django  
-FastAPI  
-
-### 🗄️ Databases  
-MongoDB  
-PostgreSQL  
-SQLite  
-
----
-
 ## 💡 Featured Projects  
 
 ### 🛍️ Autonomous Bargain Finding Agent  
